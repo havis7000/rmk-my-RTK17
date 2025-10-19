@@ -31,10 +31,10 @@ matrix_map = """
 [[layer]]
 name = "base_layer" #optional name for the layer
 keys = """
-ESC   Y     U I O P
-F     G     H J K L  
-Z     C     V B N M 
-SPACE MO(1) _ _ _ _  
+ESC   Y     U I O 
+F     G     H J K   
+Z     C     V B N  
+SPACE MO(1) _ _ _   
 """
 
 # layer 1:
@@ -64,8 +64,6 @@ battery_adc_pin = "vddh"
 # Just ignore if no light pin is used for it
 # numslock.pin = "PA5"
 # numslock.low_active = true
-
-
 
 [storage]
 # Storage feature is enabled by default
