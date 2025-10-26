@@ -1,5 +1,5 @@
 {
-    "name": "HID Keyboard",
+    "name": "RTK17",
     "vendorId": "0x4C4B",
     "productId": "0x4643",
     "lighting": "none",
@@ -47,7 +47,7 @@
     ],
     "matrix": {
         "rows": 4,
-        "cols": 3
+        "cols": 5
     },
     "layouts": {
         "keymap": [
